@@ -1,34 +1,64 @@
-<h2 align="left">I'm Adnanul Islam, a passionate and curious Computer Science student hailing from the vibrant country of Bangladesh. As a dedicated learner in the field, I am always eager to explore the cutting-edge realms of technology, with a particular focus on the captivating domain of Artificial Intelligence (AI).</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.dbc2920e47c5b228011a0c32ed7f3175?rik=XKhhVWws0FdgDA&pid=ImgRaw&r=0"  />
+<p align="left">
+My name is [Your Name], and I'm a curious developer and lifelong learner passionate about combining creativity with technology to solve real-world problems.
+</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">
+✨ Building software and exploring cutting-edge tech since I wrote my first line of code!<br>
+📚 Currently diving deep into machine learning, with a special interest in computer vision and large language models (LLMs).<br>
+🎯 Goals: Contribute to innovative projects that merge LLMs and computer vision to redefine user experiences.<br>
+🎲 Fun fact: I'm an anime enthusiast—stories of resilience, strategy, and teamwork inspire my approach to coding and learning.
+</p>
+
+###
+
+<h2 align="left">I Code With</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<h2 align="left">What Excites Me</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<p align="left">
+- 🤖 **Machine Learning**: Exploring cutting-edge applications in computer vision and leveraging LLMs to enhance AI capabilities.<br>
+- 🧠 **Interdisciplinary Innovation**: Blending fields like AI, software development, and user experience to push boundaries.<br>
+- 🎬 **Anime**: The themes of perseverance, strategy, and collaboration inspire me in coding and life.
+</p>
 
 ###
+
+<h2 align="left">Let's Connect!</h2>
+
+###
+
+<p align="left">
+I'm always excited to connect with like-minded individuals interested in machine learning, AI, and creative tech solutions. Feel free to reach out and share ideas! 🚀
+</p>
