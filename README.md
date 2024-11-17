@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-My name is [Your Name], and I'm a curious developer and lifelong learner passionate about combining creativity with technology to solve real-world problems.
+My name is Adnanul Islam, and I'm a curious developer and lifelong learner passionate about combining creativity with technology to solve real-world problems.
 </p>
 
 ###
