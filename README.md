@@ -48,9 +48,9 @@ My name is Adnanul Islam, and I'm a curious developer and lifelong learner passi
 ###
 
 <p align="left">
-- 🤖 <h1><Machine Learning:/h1> Exploring cutting-edge applications in computer vision and leveraging LLMs to enhance AI capabilities.<br>
-- 🧠 <h1> Interdisciplinary Innovation:</h1> Blending fields like AI, software development, and user experience to push boundaries.<br>
-- 🎬 <h1>Anime:</h1> The themes of perseverance, strategy, and collaboration inspire me in coding and life.
+- 🤖 <h4><Machine Learning:/h1> Exploring cutting-edge applications in computer vision and leveraging LLMs to enhance AI capabilities.<br>
+- 🧠 <h4> Interdisciplinary Innovation:</h1> Blending fields like AI, software development, and user experience to push boundaries.<br>
+- 🎬 <h4>Anime:</h1> The themes of perseverance, strategy, and collaboration inspire me in coding and life.
 </p>
 
 ###
